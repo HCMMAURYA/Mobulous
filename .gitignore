@@ -1,0 +1,8 @@
+node_modules
+.env
+package-lock.json
+staging.env
+vlcc
+vlcc.pub
+test.js
+hello .html
